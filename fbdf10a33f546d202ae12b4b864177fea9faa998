@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7700c82b_28af6ac3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 408
+      },
+      "writtenOn": "2022-08-22T16:21:42Z",
+      "side": 1,
+      "message": "Tested on Asus ZenFone 5Z(Z01R) Unofficial build.\nThis commit was verified.\n",
+      "revId": "fbdf10a33f546d202ae12b4b864177fea9faa998",
+      "serverId": "66da7299-18b4-411a-8fa2-12a880778196"
+    }
+  ]
+}
