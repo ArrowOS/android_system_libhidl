@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "15caa3e6_1b28b401",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 230
+      },
+      "writtenOn": "2022-09-14T18:28:09Z",
+      "side": 1,
+      "message": "Tested on POCO X4 Pro (veux) Unofficial build.",
+      "revId": "8d24079d2405abdbe7c6795ece2afd91ce51027e",
+      "serverId": "66da7299-18b4-411a-8fa2-12a880778196"
+    }
+  ]
+}
